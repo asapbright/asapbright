@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python pragramming, Data science, and microsoft Excel
 - 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on python beginners projects and Open source projects 
-- 📫 I'am reachable at: Brightsegla@outlook.com
+- 📫 I'am reachable at: brightsegla@proton.me
 
 <!---
 asapbright/asapbright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
